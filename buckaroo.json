@@ -1,0 +1,9 @@
+{
+  "name": "timer",
+  "dependencies": {
+    "boost/config": "1.63.0",
+    "boost/system": "1.63.0",
+    "boost/chrono": "1.63.0",
+    "boost/io": "1.63.0"
+  }
+}

@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'original_timer_test',
+  srcs = [
+    'original_timer_test.cpp',
+  ],
+  deps = [
+    '//:timer',
+  ],
+)
